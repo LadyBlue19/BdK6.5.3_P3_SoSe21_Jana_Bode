@@ -1,8 +1,11 @@
 # Aufgabe 1 in BDK6.5.3 (wB/öB) P3 Data Librarianship und Programmierung
+
 ## - Text-Editor meiner Wahl -
 Notepad++
 ## - Eine Python-Bibliothek -
-Ihre Antwort
+#NLTK
+Was macht NLTK? -> verarbeitet und analysiert Daten 
+Wie kann man diese nutzen? -> Verarbeitung der natürlichen Sprache (Menschensprache)
 ## - Eine Fehlermeldung und Ihre Lösung -
 Ihre Antwort
 ## -  Was ist JupyterLab? -
