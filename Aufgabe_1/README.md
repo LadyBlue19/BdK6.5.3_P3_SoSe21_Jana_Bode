@@ -4,7 +4,8 @@
 Notepad++
 ## - Eine Python-Bibliothek -
 ### NLTK
-Was macht NLTK? -> verarbeitet und analysiert Daten 
+Was macht NLTK? -> verarbeitet und analysiert Daten
+ 
 Wie kann man diese nutzen? -> Verarbeitung der natürlichen Sprache (Menschensprache)
 ## - Eine Fehlermeldung und Ihre Lösung -
 Fehler: ich hatte am Anfang die URL falsch aufgeschrieben und falsch aufgeteilt, wehsalb ich nur eine zeile als Antwort zurück bekam: 
