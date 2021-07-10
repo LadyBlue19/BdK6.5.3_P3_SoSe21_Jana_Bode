@@ -1,7 +1,7 @@
 # Aufgabe 1 in BDK6.5.3 (wB/öB) P3 Data Librarianship und Programmierung
 
 ## - Text-Editor meiner Wahl -
-Notepad++
+ich habe mich für Notepad++ entschieden.
 ## - Eine Python-Bibliothek -
 ### NLTK
 Was macht NLTK? -> verarbeitet und analysiert Daten
@@ -18,6 +18,6 @@ base_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubme
 doi = "27708327"
 full_url = base_url + doi
 ## -  Was ist JupyterLab? -
-Ihre Antwort
+JupyterLab ist eine Benutzeroberfläche im Web-Format und gehört zum "Project Jupyter". Für Datenwissenschaftler bietet es eine interaktive Entwickulngsumgebung, da es mit Jupyter Notebooks, Codes und Daten arbeiten kann. Man kann sagen, dass JupyterLab eine bessere und ausgerbaietet Alternative zu JupyterNotebook ist.
 ## - Was ist der große Unterschied zwischen den Webframeworks flask und Django? -
-Antwort
+Django scheint komplexer als Flax zu sein und hat ein eigenes ORM. Flax bietet dagegen mehr Flexibilität und hat den Fokus auf kleinere Programme mit geringen Anforderungen gelegt.
